@@ -1,5 +1,7 @@
 # Traveling Salesman Problem - evolutionary algorithm
 
+An implementation of a Traveling Salesman Problem solver using evolutionary algorithm principles, for learning purposes. 
+
 ## how to run the script
 - on a computer with python installed with the files on the working directory run python script.py arg1 arg2 where 
 - arg1 = size in vertexes of the graph (randomly generated)
